@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.grailpay.banklink.sample",
+      "sha256_cert_fingerprints": ["27:9D:84:C9:4F:B8:8E:CF:DF:2B:5E:87:FC:E9:34:5D:1F:F7:48:94:AA:80:BF:4F:03:5A:15:83:35:5F:6E:B5"]
+    }
+  }
+]
