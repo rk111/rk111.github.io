@@ -1,5 +1,15 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head><meta charset="utf-8"><title>Returning to app…</title></head>
-  <body>OAuth return received. You can close this window.</body>
+<head>
+  <meta charset="utf-8">
+  <title>Returning to app…</title>
+</head>
+<body>
+  <p>OAuth return received. Returning to app…</p>
+  <script>
+    const params = window.location.search;
+    const appLink = "https://rk111.github.io/banklink-return" + params;
+    window.location.href = appLink;
+  </script>
+</body>
 </html>
