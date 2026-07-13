@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["JWN9MV525V.com.rk111.banklinkdemo"],
+        "appIDs": ["H4936FTSZB.com.rk111.banklinkdemo"],
         "components": [
           { "/": "/banklink-return", "comment": "BankLink iOS OAuth return" },
           { "/": "/banklink-return/*", "comment": "BankLink iOS OAuth return subpaths" }
